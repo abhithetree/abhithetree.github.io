@@ -2,14 +2,14 @@
 title: "Abhi Jain"
 image: "tobi.jpg"
 links:
-  - icon: fa-github fa-lg
-    url: "https://github.com/"
-  - icon: fa-twitter
-    url: "https://twitter.com/"
+  - label: Github
+    href: "https://github.com/abhithetree"
+  - label: Twitter
+    href: "https://twitter.com/abhithetree"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:abhithetree@gmail.com"
 output:
-  postcards::jolla
+  postcards::trestles
 ---
  
 I am a classically trained data scientist living in the San Francisco Bay Area. 
