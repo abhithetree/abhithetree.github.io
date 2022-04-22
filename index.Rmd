@@ -1,13 +1,11 @@
 ---
-title: "Tobi Burns"
+title: "Abhi Jain"
 image: "tobi.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
-  - label: GitHub
+  - icon: fa-github fa-lg
     url: "https://github.com/"
+  - icon: fa-twitter
+    url: "https://twitter.com/"
   - label: Email
     url: "mailto:email@email.com"
 output:
