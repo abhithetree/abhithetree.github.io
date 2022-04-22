@@ -1,6 +1,6 @@
 ---
 title: "Abhi Jain"
-image: "tobi.jpg"
+image: "abhi.jpg"
 links:
   - label: Github
     href: "https://github.com/abhithetree"
@@ -12,6 +12,4 @@ output:
   postcards::trestles
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am an incoming Biostatistics PhD student at Boston University via Wake Forest University and Davidson College. My research interests include causal inference and spatiotemporal modeling.
