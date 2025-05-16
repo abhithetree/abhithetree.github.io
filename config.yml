@@ -68,8 +68,8 @@ params:
           url: https://github.com/abhithetree
         - name: YouTube
           url: https://www.youtube.com/@sdcprez
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+        #- name: Bluesky
+        #  url: https://bsky.app/profile/pmichaillat.bsky.social
 
     assets:
         disableScrollBarStyle: true
