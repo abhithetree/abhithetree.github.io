@@ -1,5 +1,5 @@
 baseURL: "https://abhithetree.github.io" 
-title: Moritz-Maria von Igelfeld
+title: Abhi Jain
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -29,7 +29,7 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: "This website hosts Abhi Jain's research papers, books, course materials, data, curriculum vitae, and contact information."
     author: Moritz-Maria von Igelfeld
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
