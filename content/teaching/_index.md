@@ -11,7 +11,7 @@ description: "Teaching experience"
 
 ### Tutoring
 
-- Tutor at the Math & Stats Center (Wake Forest University)
+- Tutor at the Math and Stats Center (Wake Forest University)
 
 ### Volunteer
 
