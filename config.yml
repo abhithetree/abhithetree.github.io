@@ -47,7 +47,7 @@ params:
     profileMode:
           enabled: true
           title: Abhi Jain
-          subtitle: "I am a PhD student in Biostatistics at Boston University School of Public Health. My research interests include causal inference, spatial statistics, and Bayesian statistics. Prior to starting at BU, I completed by Bachelor's in Economics at Davidson College, worked as a research assistant at the Securities and Excahnge Comissions, and then completed my Master's in Statistics at Wake Forest University. Feel free to reach out to me at jaina22 (at) bu (dot) edu ."
+          subtitle: "I am a PhD student in Biostatistics at Boston University School of Public Health. My research interests include causal inference, spatial statistics, and Bayesian statistics. Feel free to reach out to me at jaina22 (at) bu (dot) edu ."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -66,8 +66,8 @@ params:
           url: https://scholar.google.com/citations?user=uT9FtScAAAAJ&hl=en&oi=sra
         - name: GitHub
           url: https://github.com/abhithetree
-        - name: YouTube
-          url: https://www.youtube.com/@sdcprez
+        # - name: YouTube
+        #   url: https://www.youtube.com/@sdcprez
         #- name: Bluesky
         #  url: https://bsky.app/profile/pmichaillat.bsky.social
 
